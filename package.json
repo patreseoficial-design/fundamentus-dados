@@ -1,0 +1,10 @@
+{
+  "name": "fundamentus-dados",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "node scraper/fundamentus.js"
+  },
+  "dependencies": {
+    "playwright": "^1.41.0"
+  }
+}
